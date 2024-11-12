@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>La Música</title>
+</head>
+<body>
+    <h1>La Música</h1>
+    <h2>Un lenguaje universal</h2>
+
+    <p>
+        La <strong>música</strong> es una forma de arte que ha existido en todas las culturas desde tiempos antiguos. Se utiliza para expresar emociones, contar historias y conectar a las personas.
+    </p>
+
+    <p>
+        Existen diferentes <u>géneros musicales</u>, como el rock, el jazz, el pop, la música clásica, entre otros. Cada género tiene su propio estilo y características únicas.
+    </p>
+
+    <p>
+        La música no solo es un entretenimiento, sino que también tiene muchos beneficios para la salud. Puede ayudarnos a reducir el estrés, mejorar nuestro estado de ánimo y aumentar nuestra concentración.
+    </p>
+
+    <br>
+
+    <p>
+        Si te interesa aprender más sobre los diferentes géneros musicales, puedes visitar el siguiente enlace:
+    </p>
+
+    <a href="https://es.wikipedia.org/wiki/M%C3%BAsica" target="_blank">Más sobre la música en Wikipedia</a>
+
+    <br><br>
+
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Grand_Piano_Keyboard.jpg/600px-Grand_Piano_Keyboard.jpg" alt="Teclado de piano" width="500">
+
+</body>
+</html>
